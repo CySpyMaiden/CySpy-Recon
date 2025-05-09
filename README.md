@@ -32,9 +32,11 @@ Displays and analyzes server headers for additional insights and possible finger
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/CySpyMaiden/CySpy-Recon.git ```
+git clone https://github.com/CySpyMaiden/CySpy-Recon.git
+```
 
 ```bash
-Python CySpyRecon```
+Python CySpyRecon
+```
 
 
