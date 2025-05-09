@@ -1,8 +1,8 @@
-🔍 Load Balancer, WAF, GeoIP & Tech Stack Detector (Kali Linux Tool)
+###🔍 Load Balancer, WAF, GeoIP & Tech Stack Detector (Kali Linux Tool)
 
 This Python-based reconnaissance tool helps security testers, ethical hackers, and bug bounty hunters identify the following from any domain or website:
 
-🚀 Features:
+####🚀 Features:
 
 🔄 Load Balancer Detection
 
@@ -23,3 +23,5 @@ Identifies backend technologies like ASP.NET, PHP, Express (Node.js), and server
 🌐 HTTP Headers Scanner
 
 Displays and analyzes server headers for additional insights and possible fingerprinting.
+
+
