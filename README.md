@@ -31,9 +31,16 @@ Displays and analyzes server headers for additional insights and possible finger
 
 ### Clone the repository:
 
+To get started, clone the repository by running the following command:
+
 ```bash
 git clone https://github.com/CySpyMaiden/CySpy-Recon.git
 ```
+```bash
+cd CySpy-Recon
+```
+
+For Run the tool:
 
 ```bash
 Python CySpyRecon
